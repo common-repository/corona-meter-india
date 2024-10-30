@@ -1,0 +1,263 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Corona Meter India\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-19 07:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Description of the plugin
+msgid ""
+"Corona Cases Tracking Widget that gives you Covid case numbers in India, all "
+"Indian states Covid case numbers and Covid helpline numbers for all Indian "
+"States & Union Territories. The API that is used in this plugin collects the "
+"data using an official gov website. This free plugin will benefit all "
+"healthcare & any general website which wants to update its users about the "
+"current covid-19 senario in India."
+msgstr ""
+
+#. Name of the plugin
+msgid "Corona Meter India"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rashmisworld.wordpress.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rashmi Sonawane"
+msgstr ""
+
+#. Title
+msgid "Title"
+msgstr ""
+
+#. India
+msgid "India"
+msgstr ""
+
+#. Updated
+msgid "Updated"
+msgstr ""
+
+#. Active Cases
+msgid "Active Cases"
+msgstr ""
+
+#. Active Rate
+msgid "Active Rate"
+msgstr ""
+
+#. Confirmed Cases
+msgid "Confirmed Cases"
+msgstr ""
+
+#. Death Cases
+msgid "Death Cases"
+msgstr ""
+
+#. Deaths
+msgid "Deaths"
+msgstr ""
+
+#. Recovered Cases
+msgid "Recovered Cases"
+msgstr ""
+
+#. Recovery Rate
+msgid "Recovery Rate"
+msgstr ""
+
+#. Passengers Screened (Airport)
+msgid "Passengers Screened (Airport)"
+msgstr ""
+
+#. Select State
+msgid "Select State"
+msgstr ""
+
+#. State
+msgid "State"
+msgstr ""
+
+#. Select a State
+msgid "Select a State"
+msgstr ""
+
+#. Andhra Pradesh
+msgid "Andhra Pradesh"
+msgstr ""
+
+#. Andaman Nicobar
+msgid "Andaman Nicobar"
+msgstr ""
+
+#. Arunachal Pradesh
+msgid "Arunachal Pradesh"
+msgstr ""
+
+#. Assam
+msgid "Assam"
+msgstr ""
+
+#. Bihar
+msgid "Bihar"
+msgstr ""
+
+#. Chandigarh
+msgid "Chandigarh"
+msgstr ""
+
+#. Chhattisgarh
+msgid "Chhattisgarh"
+msgstr ""
+
+#. Dadra and Nagar Haveli and Daman
+msgid "Dadra and Nagar Haveli and Daman"
+msgstr ""
+
+#. Daman and Diu
+msgid "Daman and Diu"
+msgstr ""
+
+#. Delhi
+msgid "Delhi"
+msgstr ""
+
+#. Goa
+msgid "Goa"
+msgstr ""
+
+#. Gujarat
+msgid "Gujarat"
+msgstr ""
+ 
+#. Haryana
+msgid "Haryana"
+msgstr ""
+
+#. Himachal Pradesh
+msgid "Himachal Pradesh"
+msgstr ""
+
+#. Jharkhand
+msgid "Jharkhand"
+msgstr ""
+
+#. Jammu and Kashmir
+msgid "Jammu and Kashmir"
+msgstr ""
+
+#. Karnataka
+msgid "Karnataka"
+msgstr ""
+
+#. Kerala
+msgid "Kerala"
+msgstr ""
+
+#. Ladakh
+msgid "Ladakh"
+msgstr ""
+
+#. Lakshadweep
+msgid "Lakshadweep"
+msgstr ""
+
+#. Madhya Pradesh
+msgid "Madhya Pradesh"
+msgstr ""
+
+#. Maharashtra
+msgid "Maharashtra"
+msgstr ""
+
+#. Manipur
+msgid "Manipur"
+msgstr ""
+
+#. Meghalaya
+msgid "Meghalaya"
+msgstr ""
+
+#. Mizoram
+msgid "Mizoram"
+msgstr ""
+
+#. Nagaland
+msgid "Nagaland"
+msgstr ""
+
+#. Odisha
+msgid "Odisha"
+msgstr ""
+
+#. Puducherry
+msgid "Puducherry"
+msgstr ""
+
+#. Punjab
+msgid "Punjab"
+msgstr ""
+
+#. Rajasthan
+msgid "Rajasthan"
+msgstr ""
+
+#. Sikkim
+msgid "Sikkim"
+msgstr ""
+
+#. Tamil Nadu
+msgid "Tamil Nadu"
+msgstr ""
+
+#. Telengana
+msgid "Telengana"
+msgstr ""
+
+#. Tripura
+msgid "Tripura"
+msgstr ""
+
+#. Uttarakhand
+msgid "Uttarakhand"
+msgstr ""
+
+#. Uttar Pradesh
+msgid "Uttar Pradesh"
+msgstr ""
+
+#. West Bengal
+msgid "West Bengal"
+msgstr ""
+
+#. Helpline Number
+msgid "Helpline Number"
+msgstr ""
+
+#. Corona Meter States
+msgid "Corona Meter States"
+msgstr ""
+
+#. Corona Meter Helpline
+msgid "Corona Meter Helpline"
+msgstr ""
+
+#. Server Issue
+msgid "Server Issue"
+msgstr ""
+
+#. Please Try Later
+msgid "Please Try Later"
+msgstr ""
+

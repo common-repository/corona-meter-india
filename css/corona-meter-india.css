@@ -1,0 +1,57 @@
+.wp_widget_cmi_box
+{
+	background-image:url('../images/coronavirusbg.jpg');
+	background-size: cover;
+}
+
+.cmi_title
+{
+	display: inline-block;
+	width: 34%;
+}
+
+.cmi_blk
+{
+	background-color: #e2dedda1;
+	padding:3px;
+	border-bottom: 1px solid;
+	color: black;
+	font-weight: 700;
+}
+
+.cmi_blk span
+{
+	display:inline-block;
+}
+
+.cmi_blk .flagicon img
+{
+	width: 30px;
+	vertical-align: middle;
+}
+
+.widget_corona_meter_india_country .widget-title, .widget_corona_meter_india_state .widget-title,.widget_corona_meter_india_helpline .widget-title
+{
+	background-color: #e2deddb5;
+}
+
+.activecases
+{
+	background-color: #ff9191;
+}
+
+.confirmedcases
+{
+	background-color: #ecc171;
+}
+
+.deathcases
+{
+	background-color: #939797;
+}
+
+.recoveredcases
+{
+	background-color: #88ec93;
+}
+

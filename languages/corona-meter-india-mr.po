@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Corona Meter India\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-19 07:10+0000\n"
+"PO-Revision-Date: 2020-07-22 09:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mr_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2\n"
+
+#. Description of the plugin
+msgid ""
+"Corona Cases Tracking Widget that gives you Covid case numbers in India, all Indian "
+"states Covid case numbers and Covid helpline numbers for all Indian States & Union "
+"Territories. The API that is used in this plugin collects the data using an official "
+"gov website. This free plugin will benefit all healthcare & any general website which "
+"wants to update its users about the current covid-19 senario in India."
+msgstr ""
+"कोरोना केसेस ट्रॅकिंग विजेट जे आपल्याला भारतातील कोविड केस संख्या देते, भारतातील सर्व राज्यांचे कोविड "
+"केस संख्या आणि सर्व भारतीय राज्ये आणि केंद्रशासित प्रदेशांसाठी कोविड हेल्पलाइन नंबर. या प्लगइनमध्ये "
+"वापरलेले एपीआय अधिकृत सरकारी वेबसाइट वापरून डेटा संकलित करते. या विनामूल्य प्लगइनमुळे सर्व आरोग्य सेवा "
+"आणि कोणत्याही सामान्य वेबसाइटला फायदा होईल ज्या आपल्या वापरकर्त्यांना सध्याच्या कोविड -१९ "
+"परिस्थितीबद्दल अद्ययावत करू इच्छित आहेत."
+
+#. Name of the plugin
+msgid "Corona Meter India"
+msgstr "कोरोना मीटर भारत"
+
+#. Author URI of the plugin
+msgid "https://rashmisworld.wordpress.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rashmi Sonawane"
+msgstr "रश्मी सोनवणे"
+
+#. Title
+msgid "Title"
+msgstr "शीर्षक"
+
+#. India
+msgid "India"
+msgstr "भारत"
+
+#. Updated
+msgid "Updated"
+msgstr "अद्यायावत केले"
+
+#. Active Cases
+msgid "Active Cases"
+msgstr "पीडित व्यक्ती"
+
+#. Active Rate
+msgid "Active Rate"
+msgstr "सक्रिय दर"
+
+#. Confirmed Cases
+msgid "Confirmed Cases"
+msgstr "निश्चित संख्या"
+
+#. Death Cases
+msgid "Death Cases"
+msgstr "मृत्यू प्रकरणे"
+
+#. Deaths
+msgid "Deaths"
+msgstr "मृतांची संख्या"
+
+#. Recovered Cases
+msgid "Recovered Cases"
+msgstr "सोडण्यात आले"
+
+#. Recovery Rate
+msgid "Recovery Rate"
+msgstr "सुधाराणा दर"
+
+#. Passengers Screened (Airport)
+msgid "Passengers Screened (Airport)"
+msgstr "प्रवाश्यांनी तपासणी केली (विमानतळ)"
+
+#. Select State
+msgid "Select State"
+msgstr "राज्य निवडा"
+
+#. State
+msgid "State"
+msgstr "राज्य "
+
+#. Select a State
+msgid "Select a State"
+msgstr "राज्य निवडा"
+
+#. Andhra Pradesh
+msgid "Andhra Pradesh"
+msgstr "आंध्र प्रदेश"
+
+#. Andaman Nicobar
+msgid "Andaman Nicobar"
+msgstr "अंदमान निकोबार"
+
+#. Arunachal Pradesh
+msgid "Arunachal Pradesh"
+msgstr "अरुणाचल प्रदेश"
+
+#. Assam
+msgid "Assam"
+msgstr "आसाम"
+
+#. Bihar
+msgid "Bihar"
+msgstr "बिहार"
+
+#. Chandigarh
+msgid "Chandigarh"
+msgstr "चंदीगड"
+
+#. Chhattisgarh
+msgid "Chhattisgarh"
+msgstr "छत्तीसगड"
+
+#. Dadra and Nagar Haveli and Daman
+msgid "Dadra and Nagar Haveli and Daman"
+msgstr "दादरा आणि नगर हवेली आणि दमण"
+
+#. Daman and Diu
+msgid "Daman and Diu"
+msgstr "दमण आणि दीव"
+
+#. Delhi
+msgid "Delhi"
+msgstr "दिल्ली"
+
+#. Goa
+msgid "Goa"
+msgstr "गोवा"
+
+#. Gujarat
+msgid "Gujarat"
+msgstr "गुजरात"
+
+#. Haryana
+msgid "Haryana"
+msgstr "हरियाणा"
+
+#. Himachal Pradesh
+msgid "Himachal Pradesh"
+msgstr "हिमाचल प्रदेश"
+
+#. Jharkhand
+msgid "Jharkhand"
+msgstr "झारखंड"
+
+#. Jammu and Kashmir
+msgid "Jammu and Kashmir"
+msgstr "जम्मू-काश्मीर"
+
+#. Karnataka
+msgid "Karnataka"
+msgstr "कर्नाटक"
+
+#. Kerala
+msgid "Kerala"
+msgstr "केरळा"
+
+#. Ladakh
+msgid "Ladakh"
+msgstr "लडाख"
+
+#. Lakshadweep
+msgid "Lakshadweep"
+msgstr "लक्षद्वीप"
+
+#. Madhya Pradesh
+msgid "Madhya Pradesh"
+msgstr "मध्य प्रदेश"
+
+#. Maharashtra
+msgid "Maharashtra"
+msgstr "महाराष्ट्र"
+
+#. Manipur
+msgid "Manipur"
+msgstr "मणिपूर"
+
+#. Meghalaya
+msgid "Meghalaya"
+msgstr "मेघालय"
+
+#. Mizoram
+msgid "Mizoram"
+msgstr "मिझोरम"
+
+#. Nagaland
+msgid "Nagaland"
+msgstr "नागालँड"
+
+#. Odisha
+msgid "Odisha"
+msgstr "ओडिशा"
+
+#. Puducherry
+msgid "Puducherry"
+msgstr "पुडुचेरी"
+
+#. Punjab
+msgid "Punjab"
+msgstr "पंजाब"
+
+#. Rajasthan
+msgid "Rajasthan"
+msgstr "राजस्थान"
+
+#. Sikkim
+msgid "Sikkim"
+msgstr "सिक्किम"
+
+#. Tamil Nadu
+msgid "Tamil Nadu"
+msgstr "तामिळनाडू"
+
+#. Telengana
+msgid "Telengana"
+msgstr "तेलंगणा"
+
+#. Tripura
+msgid "Tripura"
+msgstr "त्रिपुरा"
+
+#. Uttarakhand
+msgid "Uttarakhand"
+msgstr "उत्तराखंड"
+
+#. Uttar Pradesh
+msgid "Uttar Pradesh"
+msgstr "उत्तर प्रदेश"
+
+#. West Bengal
+msgid "West Bengal"
+msgstr "पश्चिम बंगाल"
+
+#. Helpline Number
+msgid "Helpline Number"
+msgstr "हेल्पलाईन क्रमांक"
+
+#. Corona Meter States
+msgid "Corona Meter States"
+msgstr "कोरोना मीटर राज्ये"
+
+#. Corona Meter Helpline
+msgid "Corona Meter Helpline"
+msgstr "कोरोना मीटर हेल्पलाईन"
+
+#. Server Issue
+msgid "Server Issue"
+msgstr "सर्व्हर समस्या"
+
+#. Please Try Later
+msgid "Please Try Later"
+msgstr "कृपया नंतर प्रयत्न करा"
